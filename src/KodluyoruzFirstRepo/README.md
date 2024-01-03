@@ -4,10 +4,10 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 
 # Installation
 
-Öncelikle projeyi clonelayın. https://github.com/ChatGTHB/KodluyoruzProjeler
+Öncelikle projeyi clonelayın. https://github.com/ChatGTHB/KodluyoruzProjects
 
 ```
-git clone https://github.com/ChatGTHB/KodluyoruzProjeler
+git clone https://github.com/ChatGTHB/KodluyoruzProjects
 ```
 
 # Usage
